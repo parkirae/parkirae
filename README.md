@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://github.com/parkirae](https://github.com/parkirae)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
