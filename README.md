@@ -6,10 +6,8 @@ Sometimes I work on the frontend using JavaScript.👨‍💻</p>
 I hope everything I make is beautiful.🙏</p>
 </br>
 
-<h4>💪Skills</h4>
+<h3>💪Skills</h3>
 <p>Platforms & Languages</p>
-<br/>
-<br/>
 
  <p>
   <img alt="JAVA Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -24,5 +22,5 @@ I hope everything I make is beautiful.🙏</p>
    <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </p>
 
-<h4>🔧Tools</h4>
+<h3>🔧Tools</h3>
 <img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
