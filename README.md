@@ -6,8 +6,8 @@ Sometimes I work on the frontend using JavaScript.👨‍💻</h4>
 I hope everything I make is beautiful.🙏</h4>
 
 
-<h3>Skills</h3>
-
+<h3>💪Skills</h3>
+**Platforms & Languages**
 
 
 
