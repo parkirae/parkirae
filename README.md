@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm parkirae</h1>
-<h3 align="center">BE developer, you were looking for :)</h3>
+<h3>👋Hi there! Hi there! I'm Backend developer using JAVA and Spring.<br/>
+Sometimes I work on the front end using JavaScript.</h3>
 
 - 🌱 I’m currently learning **Backend Develop**
 
