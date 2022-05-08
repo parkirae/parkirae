@@ -1,3 +1,5 @@
+<br/>
+
 <h3>👋Hi there! I'm Backend developer using JAVA and Spring.🚀<br/>
 Sometimes I work on the frontend using JavaScript.👨‍💻</h3>
 
@@ -8,6 +10,7 @@ I hope everything I make is beautiful.🙏</h3>
 
 <h2>💪Skills</h2>
 <b>Platforms & Languages</b>
+<br/>
 <br/>
 
  <p>
