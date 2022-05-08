@@ -4,10 +4,9 @@ Sometimes I work on the frontend using JavaScript.👨‍💻</p>
  
 <p>I like poems and novels.😚<br/>
 I hope everything I make is beautiful.🙏</p>
-</br>
 
 <h3>💪Skills</h3>
-<p>Platforms & Languages</p>
+<b>Platforms & Languages</b>
 
  <p>
   <img alt="JAVA Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
