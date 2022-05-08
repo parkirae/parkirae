@@ -6,7 +6,7 @@ Sometimes I work on the frontend using JavaScript.👨‍💻</p>
 I hope everything I make is beautiful.🙏</p>
 
 <h4>💪Skills</h4>
-<h5>Platforms & Languages</h5>
+<b>Platforms & Languages</b>
 
  <p>
   <img alt="JAVA Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
