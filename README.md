@@ -1,8 +1,8 @@
 <h4>👋Hi there! Hi there! I'm Backend developer using JAVA and Spring.🚀<br/>
 Sometimes I work on the front end using JavaScript.👨‍💻</h4>
 <br/>
-<br/>  
-<h4>I like poems and novels.😚
+ 
+<h4>I like poems and novels.😚<br/>
 I hope everything I make is beautiful.🙏</h4>
 
 
