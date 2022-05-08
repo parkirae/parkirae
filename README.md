@@ -1,11 +1,9 @@
-<br/>
-
-<h3>👋Hi there! I'm Backend developer using JAVA and Spring.🚀<br/>
-Sometimes I work on the frontend using JavaScript.👨‍💻</h3>
+<p>👋Hi there! I'm Backend developer using JAVA and Spring.🚀<br/>
+Sometimes I work on the frontend using JavaScript.👨‍💻</p>
 
  
-<h3>I like poems and novels.😚<br/>
-I hope everything I make is beautiful.🙏</h3>
+<p>I like poems and novels.😚<br/>
+I hope everything I make is beautiful.🙏</p>
 </br>
 
 <h2>💪Skills</h2>
