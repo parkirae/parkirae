@@ -1,10 +1,16 @@
-<p>👋Hi there! I'm Backend developer using JAVA and Spring.🚀<br/>
-Sometimes I work on the frontend using JavaScript.👨‍💻</p>
-
- 
-<p>I like poems and novels.😚<br/>
-I hope everything I make is beautiful.🙏</p>
-
+<p>사람은 책을 만들고 책은 사람을 만든다.<br />
+​
+​
+새로운 사람을 알기 위해서는 많은 노력과 시간이 필요합니다.<br />
+그러나 많은 노력과 시간을 들인다해도 그 사람을 다 알 수는 없습니다.<br />
+오랫동안 연애를 하고 결혼을 해도 상대의 새로운 모습을 보게 되기 부지기수입니다.<br />
+​<br />
+그 사람이 어떤 사람인지 아는데는 그 사람이 어떤 책을 읽었는지 아는 것이 가장 효율적인 방법이라 생각합니다.🚀<br />
+​<br />
+저는 아래와 같은 책으로 프로그래밍을 익혔습니다.👨‍💻<br />
+이것들은 제 일부입니다.😚<br />
+<br />
+<br />
 <h3>💪Skills</h3>
 <b>Platforms & Languages</b>
 
