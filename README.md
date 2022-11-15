@@ -60,5 +60,11 @@
 </p>
 
 <h2 align="center">
-    more about me 
+   🤷‍♂️ more about me 🤷‍♂️
 </h2>
+
+<p align="center">
+  <a href = "https://velog.io/@parkirae" target="_blank" rel="opener"  >
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
+  </a>  
+</p>
