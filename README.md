@@ -2,31 +2,63 @@
 
 <h2 align="center">
     🙋‍♂️ BackEnd 🙋‍♂️
-</h3>
+</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-white?style=flat&logo=appveyor&logo=Spring&logoColor=Black"/>
-<img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=Black"/>
+<img src="https://img.shields.io/badge/Java-White?style=flat&logo=Java&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Spring-White?style=flat&logo=Spring&logoColor=gray"/>
+<img src="https://img.shields.io/badge/SpringBoot-White?style=flat&logo=SpringBoot&logoColor=gray"/>
+<img src="https://img.shields.io/badge/SpringSecurity-White?style=flat&logo=SpringSecurity&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Hibernate-White?style=flat&logo=Hibernate&logoColor=gray"/>
+<img src="https://img.shields.io/badge/myBatis-White?style=flat&logo=myBatis&logoColor=gray"/>
 </p>
 
+<h2 align="center">
+    👨‍💻 Server 👨‍💻
+</h2>
 
-BackEnd
-Java, Spring Boot, JPA
+<p align="center">
+<img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=MariaDB&logoColor=gray"/>
+</p>
 
-Server
-MariaDB
+<h2 align="center">
+    🛠️ devOps 🛠️
+</h2>
 
-FE Skills
-JavaScript, React
+<p align="center">
+<img src="https://img.shields.io/badge/AmazonAWS-white?style=flat&logo=AmazonAWS&logoColor=gray"/>
+<p>    
 
-Dev/Ops Skills
-AWS
+<h2 align="center">
+    💄 FrontEnd 💄
+</h2>
 
-OS
-Ubuntu, windows, macOS
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-White?style=flat&logo=JavaScript&logoColor=gray"/>
+<img src="https://img.shields.io/badge/React-White?style=flat&logo=React&logoColor=gray"/>
+</p>
 
-Tool
-IntelliJ, VS Code, Git
+<h2 align="center">
+    ⚙️ Tool ⚙️
+</h2>
 
-more about
-velog, Notion, parkirae@kakao.com
+<p align="center">
+<img src="https://img.shields.io/badge/IntelliJIDEA-White?style=flat&logo=IntelliJIDEA&logoColor=gray"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-White?style=flat&logo=VisualStudioCode&logoColor=gray"/>
+<img src="https://img.shields.io/badge/Git-White?style=flat&logo=Git&logoColor=gray"/>
+<img src="https://img.shields.io/badge/GitHub-White?style=flat&logo=GitHub&logoColor=gray"/>
+</p>
+
+<h2 align="center">
+    📂 OS 📂
+</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ubuntu-White?style=flat&logo=Ubuntu&logoColor=gray"/>💕
+<img src="https://img.shields.io/badge/Windows11-White?style=flat&logo=Windows11&logoColor=gray"/>
+<img src="https://img.shields.io/badge/macOS-White?style=flat&logo=Apple&logoColor=gray"/>
+</p>
+
+<h2 align="center">
+    more about me 
+</h2>
