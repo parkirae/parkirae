@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-white?style=flat&logo=appveyor&logo=Spring&logoColor=Black"/>
 <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=Black"/>
 </p>
 
