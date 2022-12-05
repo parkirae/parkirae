@@ -2,6 +2,7 @@
 
 ## 📂 Portfolio 📂 
 [todo-application](https://github.com/parkirae/study/blob/main/React_SpringBoot_AWS/README.md)
+[community-application](https://github.com/parkirae/study/tree/main/SpringBoot_AWS)
 
 ## 🙋‍♂️ BackEnd 🙋‍♂️
 
