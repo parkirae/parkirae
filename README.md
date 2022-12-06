@@ -44,10 +44,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </div>
 
-## 📂 OS 📂
+## 🖥️ OS 🖥️
 
 <div>
-<img src="https://img.shields.io/badge/Ubuntu-White?style=flat&logo=Ubuntu&logoColor=gray"/>💕
+<img src="https://img.shields.io/badge/Ubuntu-White?style=flat&logo=Ubuntu&logoColor=gray"/>
 <img src="https://img.shields.io/badge/Windows11-White?style=flat&logo=Windows11&logoColor=gray"/>
 <img src="https://img.shields.io/badge/macOS-White?style=flat&logo=Apple&logoColor=gray"/>
 </div>
