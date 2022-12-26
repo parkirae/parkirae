@@ -1,10 +1,5 @@
 ![irae](https://user-images.githubusercontent.com/76719977/201896145-b6816efd-9ff7-495f-a42c-9bc77e8b0abf.png)
 
-## 📂 Portfolio 📂 
-[todo-application](https://github.com/parkirae/study/blob/main/React_SpringBoot_AWS/README.md)✍️
-<br>
-[community-application](https://github.com/parkirae/study/tree/main/SpringBoot_AWS)📬
-
 ## 🙋‍♂️ BackEnd 🙋‍♂️
 
 <div>
@@ -39,7 +34,6 @@
 <div>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 </div>
